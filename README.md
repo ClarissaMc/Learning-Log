@@ -1,2 +1,2 @@
 # Learning-Log
-Web app that allows users to make journal entries on topics they're interested in.
+Learning Log is a web app that allows users to log the topics they're interested in and to make journal entries as they learn about each topic.
